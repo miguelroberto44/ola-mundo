@@ -1,2 +1,4 @@
-# ola-mundo
-primeiro repositório do cuso de git e github
+# olá, Mundo!
+primeiro repositório do cuso de Git e Github
+
+Repositório criado durante uma aula
